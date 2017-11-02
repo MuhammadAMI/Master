@@ -1,2 +1,2 @@
-This is my Firt File
+This is my First File
 Creating Git Repository
